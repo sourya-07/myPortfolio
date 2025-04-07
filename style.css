@@ -493,7 +493,7 @@ span {
     color: var(--main-color);
 }
 
-.testimonial-item p {
+.testimonial-item li {
     font-size: 1.6rem;
     line-height: 1.8;
     color: var(--text-color);
